@@ -46,6 +46,7 @@ outreach and paid ads. Own the full setter operations function.
   fields, and failed-payment alerts (Stripe/ClarityPay) to Slack
 - Set up standalone GHL automations for individual client accounts
   (e.g. MB3 Construction Facebook lead-form routing)
+  https://us2.make.com/public/shared-scenario/xv5Wo12fUNs/slack-onboarding-automation
 
 ### PureClean Solutions — Digital Operations & CRM
 UK commercial cleaning and facilities management company. Freelance VA
